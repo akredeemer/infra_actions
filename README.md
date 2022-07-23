@@ -1,3 +1,9 @@
 # infra_actions
 Учебный проект для изучения работы GitHub Actions (Яндекс Практикум).
-Описание появится скоро здесь.
+
+Добавлены:
+
+PEP8
+tests
+deploy
+telegrambot
